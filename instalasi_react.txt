@@ -1,0 +1,64 @@
+Pada topik ini, kita akan mencoba untuk melakukan instalasi project React menggunakan Vite . Vite adalah alat pengembangan yang cepat dan ringan untuk proyek JavaScript.
+
+ 
+📝Catatan:
+
+Pastikan kamu sudah mengistall aplikasi Node.js terlebih dahulu pada komputer atau laptop kamu.
+
+
+Berikut langkah-langkah untuk menginstall library React dengan Vite setelah Node.js terinstall:
+
+Buka terminal atau command prompt pada komputer atau laptop kamu.
+Navigasi ke direktori proyek yang diinginkan. Pada contoh di bawah ini tim Skilvul telah membuat direktori folder sebelumnya pada komputer:
+
+
+Jalankan perintah berikut untuk membuat proyek baru dengan template Vite:
+npm create vite@latest
+
+
+Berikan Project Name yang kamu inginkan. Disini tim Skiilvul memberikan Project Name yang sama dengan nama folder yaitu react-dasar.
+
+
+Pilih React dan JavaScript sebagai library dan bahasa yang akan digunakan.
+
+
+Instalasi telah berhasil dilakukan.
+
+Masuk ke direktori proyek yang baru saja dibuat.
+
+
+
+
+
+my-react-project/
+├── node_modules/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── style.css
+├── .gitignore
+├── index.html
+├── package.json
+├── README.md
+└── vite.config.js
+
+
+Berikut adalah penjelasan singkat dari struktur proyek di atas:
+
+node_modules/: Berisi semua paket yang di install oleh NPM.
+
+public/: Berisi file yang akan disalin ke root direktori output saat proyek di build. index.html adalah file utama yang akan digunakan oleh Vite.
+
+src/: Berisi kode sumber proyek. App.jsx adalah komponen utama React yang akan di render dalam main.jsx.
+
+.gitignore: Berisi daftar file/direktori yang akan diabaikan oleh Git.
+
+package.json: File konfigurasi proyek dan daftar dependensi.
+
+README.md: Berisi informasi/penjelasan tentang proyek yang kita buat.
+
+vite.config.js: Berisi konfigurasi Vite.
+

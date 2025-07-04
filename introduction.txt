@@ -1,0 +1,22 @@
+📝 React adalah salah satu library JavaScript yang paling populer dan digunakan secara luas di industri teknologi, dan dengan mengikuti kelas ini, kamu akan mendapatkan pemahaman yang kokoh tentang cara membuat komponen-komponen interaktif.
+
+
+Apa itu React?
+
+React adalah library JavaScript yang dibuat oleh Facebook untuk membuat User Interfaces (UI) sebuah website.
+
+React dirilis pada tahun 2013 dan berkembang dengan pesat hingga sekarang. Sudah banyak perusahaan yang menggunakan React, seperti: Netflix, AirBnb, PayPal, Dropbox dan masih banyak lagi.
+
+Kenapa Harus Menggunakan React?
+
+Ada beberapa alasan mengapa kita harus menggunakan React dalam pengembangan front-end sebuah website:
+
+Komponen yang bisa dipakai secara berulang (reusable components).
+Lebih mudah untuk mengatur UI state menggunakan React, dibandingkan memakai HTML & JavaScript saja.
+Didukung oleh komunitas besar, sehingga memiliki berbagai macam packages pendukung dan developer tools.
+Banyak sekali lowongan pekerjaan front-end yang menggunakan React.
+
+
+📝  Catatan:
+
+Kamu bisa melihat informasi lebih lanjut mengenai React, pada website resminya di sini: react.dev
